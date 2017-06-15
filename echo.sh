@@ -1,4 +1,4 @@
 echo ' ---> Hello snew'
 
 
-sleep 2m
+sleep 1m
